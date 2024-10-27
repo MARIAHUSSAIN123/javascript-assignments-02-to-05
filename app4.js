@@ -39,7 +39,14 @@ console.log(table +"x"+ i +"=" + table*i);
 }
 
 //question7//
-let celsius=45
+let celsius=45;
+let fahrenheit= (25*9/5)+32;
+console.log("25degree celsius is "+fahrenheit);
+ 
+let fahrenheit2=70;
+let celsius2=(70-32)*5/9;
+console.log("70degree fahrenheit is"+celsius2);
+
 
 
 
